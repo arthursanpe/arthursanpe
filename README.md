@@ -1,4 +1,4 @@
-## Hi! I am Arthur Pereira Fullstack Developer
+## Hi! I am Arthur Pereira Software Developer
 <div align="center">
   <a href="https://github.com/arthursanpe">
 </div>
